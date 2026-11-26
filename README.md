@@ -2,7 +2,7 @@
 In this project we analyze the UDP traffic between an Access Point (AP - router) and a Station Point (STA - hosts). For the purposes of this project we have used the indoor testbest of the NITlab labs from the University of Thesally.
 
 # Experiments
-Since we have created the Access Point (AP) and successfully connected the Staion Point (STA) to it, begin executing the experiments by sending UDP traffic from the network's AP to its STA using the following parameters:
+Since we have created the Access Point (AP) and successfully connected the Station Point (STA) to it, begin executing the experiments by sending UDP traffic from the network's AP to its STA using the following parameters:
 1. Transmission duration **30 seconds**, transmission rate **5 Mbps**.
 2. Transmission duration **30 seconds**, transmission rate **15 Mbps**.
 3. Transmission duration **30 seconds**, transmitssion rate **100 Mbps**.
