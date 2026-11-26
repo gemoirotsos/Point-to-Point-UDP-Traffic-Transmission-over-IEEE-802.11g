@@ -1,5 +1,5 @@
 # Point-to-Point-UDP-Traffic-Transmission-over-IEEE-802.11g
-In this project we analyze the UDP traffic between an Access Point (AP - router) and a Station Point (STA - hosts). For the purposes of this project we have used the indoor testbest of the NITlab labs from the University of Thesally.
+In this project we analyze the UDP traffic between an Access Point (AP - router) and a Station Point (STA - hosts). For the purposes of this project we have used the indoor testbest of the NITlab labs from the University of Thesally. 
 
 # Experiments
 Since we have created the Access Point (AP) and successfully connected the Station Point (STA) to it, begin executing the experiments by sending UDP traffic from the network's AP to its STA using the following parameters:
@@ -18,6 +18,8 @@ The experiments are taking place using the **iperf** command. The initialization
 | [`hostap.conf`](hostap.conf) | Configuration file for the AP. |
 | [`report.pdf`](report.pdf) | Project report detailing the methodology, experimental steps (including **iperf** commands), result analysis, and supporting screenshots. |
 | [`1st Assignment.docx.pdf`](1st%20Assignment.docx.pdf) | Assignment PDF containg the original problem statement. |
+
+The goal of the project is to observe the metrics  differencesand the packet loss when changing the transmission rate.
 
 # Academic Context
 This project was developed during the spring semester of the 2024-2025 academic year for the subject of **Wireless Communications**, at the Department of Electrical and Computer Engineering, University of Thessaly. The operational protocol is  **IEEE 802.11g**. 
