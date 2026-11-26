@@ -13,9 +13,9 @@ The experiments are taking place using the **iperf** command. The initialization
 
 | Path | Contents |
 | --- | --- |
-| [`new_app.py`](new_app.py) | Python backend with Flask routes, the MySQL connection, and SQL queries for the application features. |
+| [`log_iperf_X_AP.txt`](log_iperf_5M_AP.txt)(log_iperf_15M_AP.txt) | Python backend with Flask routes, the MySQL connection, and SQL queries for the application features. |
 | [`uni_app_database.sql`](uni_app_database.sql) | SQL dump containing the relational schema and project data. |
-| [`template/`](template/) | Frontend template with HTML, CSS, and JavaScript. |
+| [`hostap.conf`](hostap.conf) | Configuration file for the AP. |
 | [`report.pdf`](report.pdf) | Project report detailing the methodology, experimental steps (including **iperf** commands), result analysis, and supporting screenshots. |
 | [`1st Assignment.docx.pdf`](1st Assignment.docx.pdf) | Assignment PDF containg the original problem statement. |
 
