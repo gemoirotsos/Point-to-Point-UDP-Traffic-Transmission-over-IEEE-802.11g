@@ -13,7 +13,8 @@ The experiments are taking place using the **iperf** command. The initialization
 
 | Path | Contents |
 | --- | --- |
-| [`log_iperf_X_AP.txt`](log_iperf_5M_AP.txt)(log_iperf_15M_AP.txt) | Python backend with Flask routes, the MySQL connection, and SQL queries for the application features. |
+| [`log_iperf_X_AP.txt`](log_iperf_5M_AP.txt) | Results of the iperf command of the AP. It contains the seconds and the Bandwidth. X defines the Mbps (5,15,100).|
+| [`log_iperf_X_SP.txt`](log_iperf_5M_SP.txt) | Results of the iperf command of the STA. It contains the seconds, the Bandwidth, the jitter, and the lost packets. X defines the Mbps (5,15,100).|
 | [`uni_app_database.sql`](uni_app_database.sql) | SQL dump containing the relational schema and project data. |
 | [`hostap.conf`](hostap.conf) | Configuration file for the AP. |
 | [`report.pdf`](report.pdf) | Project report detailing the methodology, experimental steps (including **iperf** commands), result analysis, and supporting screenshots. |
