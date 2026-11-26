@@ -19,7 +19,7 @@ The experiments are taking place using the **iperf** command. The initialization
 | [`report.pdf`](report.pdf) | Project report detailing the methodology, experimental steps (including **iperf** commands), result analysis, and supporting screenshots. |
 | [`1st Assignment.docx.pdf`](1st%20Assignment.docx.pdf) | Assignment PDF containg the original problem statement. |
 
-The goal of the project is to observe the metrics  differencesand the packet loss when changing the transmission rate.
+The goal of the project is to observe the metrics and the packet loss when changing the transmission rate.
 
 # Academic Context
 This project was developed during the spring semester of the 2024-2025 academic year for the subject of **Wireless Communications**, at the Department of Electrical and Computer Engineering, University of Thessaly. The operational protocol is  **IEEE 802.11g**. 
