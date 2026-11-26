@@ -17,7 +17,7 @@ The experiments are taking place using the **iperf** command. The initialization
 | [`log_iperf_X_SP.txt`](log_iperf_5M_SP.txt) | iperf server (STA) reception logs containing the time interval, transferred data, bandwidth, jitter, and packet loss. X defines the transmission rate (5,15,100 Mbps).|
 | [`hostap.conf`](hostap.conf) | Configuration file for the AP. |
 | [`report.pdf`](report.pdf) | Project report detailing the methodology, experimental steps (including **iperf** commands), result analysis, and supporting screenshots. |
-| [`1st Assignment.docx.pdf`](1st Assignment.docx.pdf) | Assignment PDF containg the original problem statement. |
+| [`1st Assignment.docx.pdf`](1st%20Assignment.docx.pdf) | Assignment PDF containg the original problem statement. |
 
 # Academic Context
 This project was developed during the spring semester of the 2024-2025 academic year for the subject of **Wireless Communications**, at the Department of Electrical and Computer Engineering, University of Thessaly. The operational protocol is  **IEEE 802.11g**. 
