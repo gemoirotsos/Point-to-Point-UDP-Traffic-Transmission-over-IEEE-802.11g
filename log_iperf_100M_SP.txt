@@ -1,0 +1,38 @@
+------------------------------------------------------------
+Server listening on UDP port 5003
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.72 port 5003 connected with 192.168.2.69 port 41725
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0- 1.0 sec  2.95 MBytes  24.8 Mbits/sec   1.132 ms    0/ 2105 (0%)
+[  3]  1.0- 2.0 sec  3.09 MBytes  25.9 Mbits/sec   1.527 ms    0/ 2205 (0%)
+[  3]  2.0- 3.0 sec  3.06 MBytes  25.7 Mbits/sec   1.035 ms    1/ 2185 (0.046%)
+[  3]  3.0- 4.0 sec  3.14 MBytes  26.4 Mbits/sec   1.367 ms    0/ 2242 (0%)
+[  3]  4.0- 5.0 sec  3.12 MBytes  26.1 Mbits/sec   1.208 ms    0/ 2223 (0%)
+[  3]  5.0- 6.0 sec  3.08 MBytes  25.8 Mbits/sec   0.884 ms    0/ 2195 (0%)
+[  3]  6.0- 7.0 sec  3.18 MBytes  26.7 Mbits/sec   0.760 ms    0/ 2270 (0%)
+[  3]  7.0- 8.0 sec  3.05 MBytes  25.6 Mbits/sec   0.596 ms    0/ 2173 (0%)
+[  3]  8.0- 9.0 sec  3.19 MBytes  26.7 Mbits/sec   1.313 ms    0/ 2274 (0%)
+[  3]  9.0-10.0 sec  3.07 MBytes  25.7 Mbits/sec   1.569 ms    0/ 2188 (0%)
+[  3] 10.0-11.0 sec  3.13 MBytes  26.2 Mbits/sec   1.060 ms    0/ 2230 (0%)
+[  3] 11.0-12.0 sec  3.10 MBytes  26.0 Mbits/sec   0.807 ms    0/ 2208 (0%)
+[  3] 12.0-13.0 sec  3.19 MBytes  26.8 Mbits/sec   0.612 ms    0/ 2277 (0%)
+[  3] 13.0-14.0 sec  3.09 MBytes  25.9 Mbits/sec   1.264 ms    0/ 2205 (0%)
+[  3] 14.0-15.0 sec  3.16 MBytes  26.5 Mbits/sec   0.580 ms    1/ 2256 (0.044%)
+[  3] 15.0-16.0 sec  3.19 MBytes  26.7 Mbits/sec   1.232 ms    0/ 2274 (0%)
+[  3] 16.0-17.0 sec  3.08 MBytes  25.8 Mbits/sec   0.486 ms    1/ 2199 (0.045%)
+[  3] 17.0-18.0 sec  3.18 MBytes  26.7 Mbits/sec   0.813 ms    0/ 2268 (0%)
+[  3] 18.0-19.0 sec  3.07 MBytes  25.7 Mbits/sec   1.259 ms    0/ 2189 (0%)
+[  3] 19.0-20.0 sec  3.18 MBytes  26.7 Mbits/sec   0.976 ms    0/ 2271 (0%)
+[  3] 20.0-21.0 sec  3.11 MBytes  26.1 Mbits/sec   0.636 ms    0/ 2216 (0%)
+[  3] 21.0-22.0 sec  3.21 MBytes  26.9 Mbits/sec   1.263 ms    0/ 2287 (0%)
+[  3] 22.0-23.0 sec  3.13 MBytes  26.3 Mbits/sec   0.530 ms    0/ 2235 (0%)
+[  3] 23.0-24.0 sec  3.02 MBytes  25.3 Mbits/sec   0.931 ms   21/ 2172 (0.97%)
+[  3] 24.0-25.0 sec  3.15 MBytes  26.4 Mbits/sec   1.067 ms    0/ 2248 (0%)
+[  3] 25.0-26.0 sec  3.08 MBytes  25.9 Mbits/sec   0.507 ms    1/ 2200 (0.045%)
+[  3] 26.0-27.0 sec  3.20 MBytes  26.8 Mbits/sec   0.670 ms    0/ 2281 (0%)
+[  3] 27.0-28.0 sec  3.13 MBytes  26.3 Mbits/sec   1.504 ms    0/ 2236 (0%)
+[  3] 28.0-29.0 sec  3.16 MBytes  26.5 Mbits/sec   1.007 ms    0/ 2254 (0%)
+[  3] 29.0-30.0 sec  3.05 MBytes  25.6 Mbits/sec   0.627 ms   10/ 2186 (0.46%)
+[  3]  0.0-30.0 sec  93.6 MBytes  26.2 Mbits/sec   1.554 ms 2147350053/2147416833 (1e+02%)

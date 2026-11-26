@@ -1,0 +1,41 @@
+------------------------------------------------------------
+Client connecting to 192.168.2.72, UDP port 5003
+Sending 1470 byte datagrams, IPG target: 112.15 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.69 port 41725 connected with 192.168.2.72 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  3.07 MBytes  25.8 Mbits/sec
+[  3]  1.0- 2.0 sec  3.09 MBytes  26.0 Mbits/sec
+[  3]  2.0- 3.0 sec  3.06 MBytes  25.6 Mbits/sec
+[  3]  3.0- 4.0 sec  3.15 MBytes  26.4 Mbits/sec
+[  3]  4.0- 5.0 sec  3.12 MBytes  26.1 Mbits/sec
+[  3]  5.0- 6.0 sec  3.07 MBytes  25.7 Mbits/sec
+[  3]  6.0- 7.0 sec  3.17 MBytes  26.6 Mbits/sec
+[  3]  7.0- 8.0 sec  3.02 MBytes  25.3 Mbits/sec
+[  3]  8.0- 9.0 sec  3.24 MBytes  27.2 Mbits/sec
+[  3]  9.0-10.0 sec  3.04 MBytes  25.5 Mbits/sec
+[  3] 10.0-11.0 sec  3.14 MBytes  26.4 Mbits/sec
+[  3] 11.0-12.0 sec  3.08 MBytes  25.8 Mbits/sec
+[  3] 12.0-13.0 sec  3.17 MBytes  26.6 Mbits/sec
+[  3] 13.0-14.0 sec  3.09 MBytes  25.9 Mbits/sec
+[  3] 14.0-15.0 sec  3.17 MBytes  26.6 Mbits/sec
+[  3] 15.0-16.0 sec  3.22 MBytes  27.0 Mbits/sec
+[  3] 16.0-17.0 sec  3.04 MBytes  25.5 Mbits/sec
+[  3] 17.0-18.0 sec  3.21 MBytes  26.9 Mbits/sec
+[  3] 18.0-19.0 sec  3.04 MBytes  25.5 Mbits/sec
+[  3] 19.0-20.0 sec  3.22 MBytes  27.0 Mbits/sec
+[  3] 20.0-21.0 sec  3.09 MBytes  25.9 Mbits/sec
+[  3] 21.0-22.0 sec  3.24 MBytes  27.2 Mbits/sec
+[  3] 22.0-23.0 sec  3.08 MBytes  25.8 Mbits/sec
+[  3] 23.0-24.0 sec  3.08 MBytes  25.9 Mbits/sec
+[  3] 24.0-25.0 sec  3.15 MBytes  26.5 Mbits/sec
+[  3] 25.0-26.0 sec  3.04 MBytes  25.5 Mbits/sec
+[  3] 26.0-27.0 sec  3.22 MBytes  27.0 Mbits/sec
+[  3] 27.0-28.0 sec  3.11 MBytes  26.1 Mbits/sec
+[  3] 28.0-29.0 sec  3.21 MBytes  26.9 Mbits/sec
+[  3] 29.0-30.0 sec  3.03 MBytes  25.4 Mbits/sec
+[  3]  0.0-30.0 sec  93.7 MBytes  26.2 Mbits/sec
+[  3] Sent 66815 datagrams
+[  3] Server Report:
+[  3]  0.0-30.0 sec  93.6 MBytes  26.2 Mbits/sec   0.000 ms 2147350053/2147416833 (0%)
