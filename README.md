@@ -3,9 +3,9 @@ In this project we analyze the UDP traffic between an Access Point (AP - router)
 
 # Experiments
 Since we have created the Access Point (AP) and successfully connected the Staion Point (STA) to it, begin executing the experiments by sending UDP traffic from the network's AP to its STA using the following parameters:
-1. Transmission duration **30 seconds**, transmition rate **5 Mbps**.
-2.  Transmission duration **30 seconds**, transmition rate **15 Mbps**.
-3.   Transmission duration **30 seconds**, transmition rate **100 Mbps**.
+1. Transmission duration **30 seconds**, transmission rate **5 Mbps**.
+2. Transmission duration **30 seconds**, transmission rate **15 Mbps**.
+3. Transmission duration **30 seconds**, transmitssion rate **100 Mbps**.
 
 The experiments are taking place using the **iperf** command. The initialization of the parameters is on the **hostapd.conf** file.
 
@@ -13,9 +13,8 @@ The experiments are taking place using the **iperf** command. The initialization
 
 | Path | Contents |
 | --- | --- |
-| [`log_iperf_X_AP.txt`](log_iperf_5M_AP.txt) | Results of the iperf command of the AP. It contains the seconds and the Bandwidth. X defines the Mbps (5,15,100).|
-| [`log_iperf_X_SP.txt`](log_iperf_5M_SP.txt) | Results of the iperf command of the STA. It contains the seconds, the Bandwidth, the jitter, and the lost packets. X defines the Mbps (5,15,100).|
-| [`uni_app_database.sql`](uni_app_database.sql) | SQL dump containing the relational schema and project data. |
+| [`log_iperf_X_AP.txt`](log_iperf_5M_AP.txt) | iperf client (AP) transmission logs containing the time interval, transferred data, and bandwidth. X defines the transmission rate (5,15,100 Mbps).|
+| [`log_iperf_X_SP.txt`](log_iperf_5M_SP.txt) | iperf server (STA) reception logs containing the time interval, transferred data, bandwidth, jitter, and packet loss. X defines the transmission rate (5,15,100 Mbps).|
 | [`hostap.conf`](hostap.conf) | Configuration file for the AP. |
 | [`report.pdf`](report.pdf) | Project report detailing the methodology, experimental steps (including **iperf** commands), result analysis, and supporting screenshots. |
 | [`1st Assignment.docx.pdf`](1st Assignment.docx.pdf) | Assignment PDF containg the original problem statement. |
