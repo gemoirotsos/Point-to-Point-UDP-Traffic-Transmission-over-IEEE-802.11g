@@ -16,7 +16,7 @@ The experiment is taking place using the **iperf** command. The initialization o
 | [`new_app.py`](new_app.py) | Python backend with Flask routes, the MySQL connection, and SQL queries for the application features. |
 | [`uni_app_database.sql`](uni_app_database.sql) | SQL dump containing the relational schema and project data. |
 | [`template/`](template/) | Frontend template with HTML, CSS, and JavaScript. |
-| [`report.pdf`](report.pdf) | Project report with installation instructions, schema diagrams, screenshots, and a code walkthrough. |
+| [`report.pdf`](report.pdf) | Project report with methodology, experiment stpes with **iperf** commands, description of the results, and screensots |
 | [`Presentation.pdf`](Presentation.pdf) | Project presentation. |
 
 # Academic Context
